@@ -6,3 +6,4 @@ It currently includes the following functions:
 *  **isEven**: a helper function which checks if a numbe is even.
 *  **isOdd**: a helper function which checks if a numbe is odd.
 *  **StringMustBeMember**: checks if a sttring is within a list of strings
++ test
