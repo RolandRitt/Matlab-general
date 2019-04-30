@@ -9,5 +9,5 @@ It currently includes the following functions:
 *  **StringMustBeMember**: checks if a sttring is within a list of strings
 
 
-This toolbox is also mirrored to the [Matlab File Exchange](https://de.mathworks.com/matlabcentral/profile/authors/3965795-roland).
+This toolbox is also mirrored to the [Matlab File Exchange](https://de.mathworks.com/matlabcentral/fileexchange/71411-matlab-general).
 It is heavily used in the [mdtsToolbox](https://github.com/RolandRitt/Matlab-mdtsToolbox).
